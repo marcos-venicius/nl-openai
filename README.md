@@ -1,5 +1,8 @@
 # NL
 
+![test](https://github.com/marcos-venicius/nl-openai/assets/94018427/72ec0174-95e2-4f60-a9d3-62a77f5d6c6e)
+
+
 _Write code with natural language_
 
 # Como funciona
